@@ -1,18 +1,19 @@
 # Pawssenger
 
 ## Project Overview
-Pawssenger is a comprehensive Android application designed to enhance the pet ownership experience. The app connects pet owners with various services, providing them a seamless way to manage their pets' needs.
+Pawssenger is a comprehensive Android application designed to enhance the pet ownership experience. The app connects pet owners with various pet transportation services, providing them a seamless way to manage their pets travel from one area to another. This project is built per the requirements of our undergrad course CSE-250.
 
 ## Features
-- Pet Service Finder: Discover local services such as grooming, walking, and veterinary care.
-- Pet Profiles: Create and manage detailed profiles for your pets.
+- Pet Transportation Service Finder: Discover local pet transport services.
+- Profiles: Create and manage detailed profiles for yourself.
 - Appointment Scheduling: Book appointments with service providers directly through the app.
-- Notifications: Get updates and reminders for appointments and pet care tips.
+- Notifications: Get updates and reminders for appointments and transportation.
 
 ## Tech Stack
 - **Language**: Kotlin
 - **Framework**: Android SDK
 - **Backend**: Firebase (Authentication, Database, Cloud Messaging)
+- **Architecture**: MVVM
 
 ## Setup Instructions
 1. Clone the repository:
