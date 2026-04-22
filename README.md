@@ -6,6 +6,7 @@ Pawssenger is a comprehensive Android application designed to enhance the pet ow
 ## Features
 - Pet Transportation Service Finder: Discover local pet transport services.
 - Profiles: Create and manage detailed profiles for yourself.
+- Two types of roles: User (Pet-owner) and Transporter.
 - Appointment Scheduling: Book appointments with service providers directly through the app.
 - Notifications: Get updates and reminders for appointments and transportation.
 - Supports Light and Dark theme
@@ -15,6 +16,65 @@ Pawssenger is a comprehensive Android application designed to enhance the pet ow
 - **Framework**: Android SDK
 - **Backend**: Firebase (Authentication, Database, Cloud Messaging)
 - **Architecture**: MVVM
+
+## User Interface
+
+Pawssenger focuses on a clean, user-friendly interface with support for both light and dark themes.
+
+### Authentication & Onboarding
+Users can sign up and begin using the app through a simple onboarding flow.
+
+<table>
+<tr>
+<td align="center">
+<img src="https://res.cloudinary.com/dr6pjobzl/image/upload/v1776897351/login-page-dark_ppou3t.png" width="250"/><br>
+Login Screen (Dark view)
+</td>
+
+<td align="center">
+<img src="https://res.cloudinary.com/dr6pjobzl/image/upload/v1776897350/sign-up-page-light_yfebya.png" width="250"/><br>
+Signup Screen (Light View)
+</td>
+</tr>
+</table>
+
+---
+
+### Service Request
+Make transportation request. (Unavailable for transportation role)
+
+<table>
+<tr>
+<td align="center">
+<img src="https://res.cloudinary.com/dr6pjobzl/image/upload/v1776897349/request-light_foqxcz.jpg" width="250"/><br>
+Pet Request Form (Light)
+</td>
+
+<td align="center">
+<img src="https://res.cloudinary.com/dr6pjobzl/image/upload/v1776897350/request-dark_uyfojx.jpg" width="250"/><br>
+Pet Request Form (Dark)
+</td>
+</tr>
+</table>
+
+---
+
+### Home Page
+Schedule and manage transport appointments.
+
+<table>
+<tr>
+<td align="center">
+<img src="https://res.cloudinary.com/dr6pjobzl/image/upload/v1776897351/home-page-user-light_djcdkb.png" width="250"/><br>
+Home Page (User View - Light)
+</td>
+
+<td align="center">
+<img src="https://res.cloudinary.com/dr6pjobzl/image/upload/v1776897350/home-transport-dark_lyiee5.jpg" width="250"/><br>
+Home Page (Transporter View - Dark)
+</td>
+</tr>
+</table>
 
 ## Setup Instructions
 1. Clone the repository:
