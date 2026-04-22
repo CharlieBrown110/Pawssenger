@@ -8,6 +8,7 @@ Pawssenger is a comprehensive Android application designed to enhance the pet ow
 - Profiles: Create and manage detailed profiles for yourself.
 - Appointment Scheduling: Book appointments with service providers directly through the app.
 - Notifications: Get updates and reminders for appointments and transportation.
+- Supports Light and Dark theme
 
 ## Tech Stack
 - **Language**: Kotlin
